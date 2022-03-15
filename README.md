@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joyjeet Mukherjee</h1>
 <h3 align="center">A student pursuing Computer Science and Engineering from Asansol Engineering College, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyjeetcoding&label=Profile%20views&color=0e75b6&style=flat" alt="joyjeetcoding" /> </p>
+- 🌱 I’m currently learning **about WEB DEVELOPMENT**
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
+- ⚡ Fun fact **I love to do Sketches**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
