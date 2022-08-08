@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/joyjeetcoding/joyjeetcoding/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -47,3 +47,5 @@
 </div>
 
 ###
+## A snake eating contribution graph ##
+![snake gif](https://github.com/joyjeetcoding/joyjeetcoding/blob/output/github-contribution-grid-snake.gif)
