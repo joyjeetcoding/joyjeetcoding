@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Joyjeet Mukherjee and I'm a sophomore pursuing Computer Science & Engineering from Asansol Engineering College, West Bengal, India</h2>
-[![@yoursjoy's Holopin board](https://holopin.me/yoursjoy)](https://holopin.io/@yoursjoy)
-
 ###
+[![@yoursjoy's Holopin board](https://holopin.me/yoursjoy)](https://holopin.io/@yoursjoy)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=joyjeetcoding" height="150" alt="stats graph"  />
