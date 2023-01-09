@@ -46,6 +46,3 @@
   <img src="https://profile-counter.glitch.me/joyjeetcoding/count.svg?"  />
 </div>
 
-###
-## A snake eating contribution graph ##
-![Snake animation](https://github.com/joyjeetcoding/joyjeetcoding/blob/output/github-contribution-grid-snake.svg)
