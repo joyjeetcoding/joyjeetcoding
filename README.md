@@ -1,4 +1,3 @@
-[![@yoursjoy's Holopin board](https://holopin.me/yoursjoy)](https://holopin.io/@yoursjoy)
 <h2 align="left">Hi 👋! My name is Joyjeet Mukherjee and I'm a Pre-Final Year Student pursuing Computer Science & Engineering from Asansol Engineering College, West Bengal, India</h2>
 ###
 
