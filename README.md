@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Pre-Final Year student at Asansol Engineering College. During these years, I have acquired pretty good amount of knowledge about MERN Stack and did many projects based on React.js, Next.js, API Fetching. You can find my projects in the Projects Section down below.<br><br>Along with Web Development, I have good knowledge about Data Structures and Algorithms.<br><br>Right now I am looking for Internships to gain some experiences. I am a good learner and a passionate hard worker looking and practicing more on my skills and expanding it so that it could help me in landing on a good career.
+I am a pre-final year student at Asansol Engineering College. Throughout my academic journey, I have acquired a proficient understanding of the MERN Stack, and I have successfully completed numerous projects utilizing technologies/frameworks such as React.js, Next.js, API fetching and much more.
+
+In addition to my expertise in web development, I possess a solid foundation in data structures and algorithms.
+
+Currently, I am actively seeking internships to further enhance my skills and gain valuable real-world experience. I am known for my dedication, passion for learning, and strong work ethic, and I am committed to continuously refining my abilities to pave the way for a successful career.
 
 
 ## 🌐 Socials:
