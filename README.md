@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a pre-final year student at Asansol Engineering College. Throughout my academic journey, I have acquired a proficient understanding of the MERN Stack, and I have successfully completed numerous projects utilizing technologies/frameworks such as React.js, Next.js, API fetching and much more.
+I am a Final year student at Asansol Engineering College. Throughout my academic journey, I have acquired a proficient understanding of the MERN Stack, and I have successfully completed numerous projects utilizing technologies/frameworks such as React.js, Next.js, API fetching and much more.
 
 In addition to my expertise in web development, I possess a solid foundation in data structures and algorithms.
 
